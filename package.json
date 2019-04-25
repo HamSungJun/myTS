@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "- 프로그래밍 언어론 수업 들으면서 정적 타입의 장점을 많이 느끼게 되었음 (From [ocaml]([http://ocaml.org/]))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamSungJun/myTS.git"
+  },
+  "author": "HSJPRIME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamSungJun/myTS/issues"
+  },
+  "homepage": "https://github.com/HamSungJun/myTS#readme"
+}
