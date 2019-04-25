@@ -1,6 +1,6 @@
 # myTS
 
-- 프로그래밍 언어론 수업 들으면서 정적 타입의 장점을 많이 느끼게 되었음 (From [ocaml]([http://ocaml.org/]))
+- 프로그래밍 언어론 수업 들으면서 정적 타입의 장점을 많이 느끼게 되었음 (From [ocaml](http://ocaml.org/))
 
 - 기존 JavaScript가 RunTime 기반이지만 한번 해보기로 ... MS가 밀어준다잖아 ...
 
